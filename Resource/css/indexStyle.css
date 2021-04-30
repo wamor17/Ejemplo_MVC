@@ -1,0 +1,23 @@
+
+body{
+	background-color: rgb(240,240,240);
+
+	/*
+	background-image: url('../images/background1.png');
+	background-position: center center;
+	background-size: contain;
+	background-attachment: fixed;
+	*/
+}
+
+@media screen and (max-width: 360px){
+
+}
+
+.img-logo{
+	margin-left: 5%;
+}
+
+.invitation-text{
+	margin: 2% 5%;
+}
